@@ -1,0 +1,2 @@
+# TrashCashhh
+Flutter hackathon
